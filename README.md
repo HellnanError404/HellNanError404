@@ -1,6 +1,6 @@
 # Hey, I'm Renan 👋
 
-💻 Programming and Computer Science student  
+💻 Programming and  future Computer Science student  
 🐍 Learning Python  
 ☕ Studying Java  
 ⚙️ Basic knowledge of C++ through robotics  
