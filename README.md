@@ -4,7 +4,7 @@
 🐍 Learning Python  
 ☕ Studying Java  
 ⚙️ Basic knowledge of C++ through robotics  
-🤖 Robotics enthusiast
+🤖 Robotics student
 🐧 Linux user
 
 I enjoy building projects, learning how computers work and improving my problem-solving skills through programming and technology.
