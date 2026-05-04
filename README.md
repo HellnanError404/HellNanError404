@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hey, I'm Renan 👋
 
-<!--
-**HellnanError404/HellNanError404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programming and Computer Science student  
+🐍 Learning Python  
+☕ Studying Java  
+⚙️ Basic knowledge of C++ through robotics  
+🤖 Robotics enthusiast  
+🐧 Linux user  
 
-Here are some ideas to get you started:
+I enjoy building projects, learning how computers work and improving my problem-solving skills through programming and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies & Tools
+
+- Python
+- Java
+- C++
+- Git & GitHub
+- Linux
+- VS Code
+
+---
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming
+- Backend Development
+- Algorithms & Data Structures
+- Computer Science fundamentals
+- Automation with Python
+
+---
+
+## 🎯 Goals
+
+- Become a strong software developer
+- Build real-world projects
+- Contribute to open source
+- Work with backend and systems programming
+- Continuously improve my programming skills
+
+---
+
+## 🛠️ Current Projects
+
+- File organizer made with Python
+- Robotics projects using C++
+- Programming exercises and algorithms
+- Backend and automation studies
+
+---
+
+## 🌎 Languages
+
+- Portuguese 🇧🇷
+- English 🇺🇸
+
+Currently interested in learning more languages in the future.
+
+---
+
+## 📈 GitHub Journey
+
+I’m focused on consistency, learning and building better projects over time.  
+Every repository here represents part of my progress as a developer.
