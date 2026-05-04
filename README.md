@@ -11,7 +11,16 @@ I enjoy building projects, learning how computers work and improving my problem-
 
 ---
 
-## 🚀 Technologies & Tools
+## · Languages
+
+- Portuguese 🇧🇷
+- English 🇺🇸
+
+Currently interested in learning more languages in the future.
+
+---
+
+## · Technologies & Tools
 
 - Python
 - Java
@@ -22,7 +31,7 @@ I enjoy building projects, learning how computers work and improving my problem-
 
 ---
 
-## 📚 Currently Learning
+## · Currently Learning
 
 - Object-Oriented Programming
 - Backend Development
@@ -32,7 +41,7 @@ I enjoy building projects, learning how computers work and improving my problem-
 
 ---
 
-## 🎯 Goals
+## · Goals
 
 - Become a strong software developer
 - Build real-world projects
@@ -42,21 +51,12 @@ I enjoy building projects, learning how computers work and improving my problem-
 
 ---
 
-## 🛠️ Current Projects
+## · Current Projects
 
 - File organizer made with Python
 - Robotics projects using C++
 - Programming exercises and algorithms
 - Backend and automation studies
-
----
-
-## 🌎 Languages
-
-- Portuguese 🇧🇷
-- English 🇺🇸
-
-Currently interested in learning more languages in the future.
 
 ---
 
